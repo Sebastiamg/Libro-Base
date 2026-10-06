@@ -1,0 +1,35 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "ai-color-palette",
+        "value": "*",
+        "files": [
+          "src/actividades/uni1act2.html"
+        ],
+        "createdAt": "2026-09-29T17:26:07.562Z",
+        "reason": "project-established violet accent, consistent with sibling unit uni6act1.html predating this session"
+      },
+      {
+        "rule": "ai-color-palette",
+        "value": "*",
+        "files": [
+          "src/actividades/uni1act1.html"
+        ],
+        "createdAt": "2026-10-02T19:20:22.602Z",
+        "reason": "violet/orange/emerald/sky title cards copy the book's PROPUESTA 4 convention from uni6act3/4, which the user told me to follow to the letter"
+      },
+      {
+        "rule": "ai-color-palette",
+        "value": "*",
+        "files": [
+          "src/contenido/uniMapaExample.ts"
+        ],
+        "createdAt": "2026-10-06T14:52:39.599Z",
+        "reason": "violet Narrador band and cards reproduce the reference organizer image the user supplied for uniMapaExample"
+      }
+    ]
+  }
+}
